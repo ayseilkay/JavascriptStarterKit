@@ -1,4 +1,4 @@
-export default class User{
+export default class userAddModel{
     constructor(id,firstName,lastName,city,age){
 
         // PROTOTYPING 
@@ -9,4 +9,5 @@ export default class User{
         this.age = this.age
     }
 }
-// yeni bir user olusturmak istedigimizde(new User()) constructor calısır.
+
+
